@@ -1,9 +1,3 @@
-## Hi there 👋
-
-
-
-- 📄 Know about my experiences https://www.linkedin.com/in/emre-balci1/
-- 📫 How to reach me: emrblc02@gmail.com
 
 <h1 align="center">Hi 👋, I'm Emre BALCI</h1>
 <h3 align="center">Data Scientist| Full-Stack Web Developer </h3>
