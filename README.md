@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/emreblc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bekchilab" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-https://go-skill-icons.vercel.app/api/icons?i=django,mongodb,nodejs,figma,react,redux,vite,reactnative,nextjs,postgresql,selenium,jquery,typescript,javascript,,git,python,pandas,scikitlearn,seaborn,tensorflow,swift,mongoose&theme=light
+<img src="https://go-skill-icons.vercel.app/api/icons?i=django,mongodb,nodejs,figma,react,redux,vite,reactnative,nextjs,postgresql,selenium,jquery,typescript,javascript,,git,python,pandas,scikitlearn,seaborn,tensorflow,swift,mongoose&theme=light"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balc1&show_icons=true&locale=en&layout=compact" alt="balc1" /></p>
 
