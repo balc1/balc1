@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **emrblc02@gmail.com**
 
-- 📄 Know about my experiences (https://www.linkedin.com/in/emre-balci1/)
+- 📄 Know about my experiences https://www.linkedin.com/in/emre-balci1/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/emreblc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bekchilab" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=django,mongodb,nodejs,figma,react,redux,vite,reactnative,nextjs,postgresql,selenium,jquery,typescript,javascript,,git,python,pandas,scikitlearn,seaborn,tensorflow,swift,mongoose&theme=light"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=django,mongodb,nodejs,figma,react,redux,vite,reactnative,nextjs,postgresql,selenium,jquery,typescript,javascript,,git,python,pandas,scikitlearn,seaborn,tensorflow,swift,mongoose"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balc1&show_icons=true&locale=en&layout=compact" alt="balc1" /></p>
 
