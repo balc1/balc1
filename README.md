@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **emrblc02@gmail.com**
 
-- 📄 Know about my experiences ](https://www.linkedin.com/in/emre-balci1/)]((https://www.linkedin.com/in/emre-balci1/))
+- 📄 Know about my experiences (https://www.linkedin.com/in/emre-balci1/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
